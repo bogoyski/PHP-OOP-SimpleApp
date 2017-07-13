@@ -1,2 +1,2 @@
-# PHP-OOP-SimpleApp
-php-oop-basic application
+# PHP-OOP-Workshop Application
+php-oop-CRUD Application
